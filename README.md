@@ -5,3 +5,9 @@
 #### This model has accuracy score of ~89% and it predicts using xgboost algorithm.
 #### Welcome to test it :)
 [https://safe-retreat-31240.herokuapp.com/](https://safe-retreat-31240.herokuapp.com/)
+
+HomePage: 
+![alt text](./img/PredictHome.jpg)
+
+ResultPage:
+![alt text](./img/PredictResult.jpg)

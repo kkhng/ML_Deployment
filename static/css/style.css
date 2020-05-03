@@ -1,0 +1,25 @@
+body {
+  background-color: #FF7F50;
+}
+body * {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  font-size: 1.5em;
+  padding: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.table-users {
+  box-shadow: none;
+  overflow: visible;
+  border: 1px solid black;
+  border-radius: 10px;
+  max-width: calc(100% - 2em);
+  margin: 1em auto;
+  width: 800px;
+  }

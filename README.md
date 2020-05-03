@@ -17,8 +17,8 @@
 #### Dependent Variable
 - charges: Individual medical costs billed by health insurance
 
-HomePage: 
+#### HomePage: 
 ![alt text](./img/PredictHome.jpg)
 
-ResultPage:
+#### ResultPage:
 ![alt text](./img/PredictResult.jpg)

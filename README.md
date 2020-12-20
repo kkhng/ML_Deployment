@@ -4,7 +4,7 @@
 #### The dataset for this model prediction is from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance).
 #### This model has accuracy score of ~89% and it predicts using xgboost algorithm.
 #### Welcome to test it :)
-[https://safe-retreat-31240.herokuapp.com/](https://safe-retreat-31240.herokuapp.com/)
+[https://kkhng-mlmodel-deployment.herokuapp.com/](https://kkhng-mlmodel-deployment.herokuapp.com/)
 
 #### Independent Variables
 - age: age of primary beneficiary
